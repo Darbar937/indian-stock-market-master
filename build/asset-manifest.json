@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a23ae19.css",
+    "main.js": "/static/js/main.e53b136d.js",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.63311334b795ce3b76e2.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.03e629f6348896ffa23a.ttf",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.d2d7f0c01bffaa5ec8f7.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.f25bd05915c1a3468d3d.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.7cc2944f187ea510b4c7.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-ExtraBold.ttf": "/static/media/OpenSans-ExtraBold.110e781b605b33c1b949.ttf",
+    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.ed41bedf131bc097372a.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/static/media/OpenSans-SemiBold.a16d8201b06a03c6c365.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/briefcase-outline.svg": "/static/media/briefcase-outline.7cbfce257fe5a029a18371d02b3db4d2.svg",
+    "index.html": "/index.html",
+    "static/media/trending-up-outline.svg": "/static/media/trending-up-outline.78e18063a09e5ebbaaa86813413546bc.svg",
+    "static/media/close-outline.svg": "/static/media/close-outline.f54873739019f063e5bb1e9e76587879.svg",
+    "static/media/chevron-down-outline.svg": "/static/media/chevron-down-outline.654386059f7d507fbefa35f3e89d9703.svg",
+    "main.4a23ae19.css.map": "/static/css/main.4a23ae19.css.map",
+    "main.e53b136d.js.map": "/static/js/main.e53b136d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a23ae19.css",
+    "static/js/main.e53b136d.js"
+  ]
+}
